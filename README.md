@@ -1,1 +1,3 @@
 # Offensive-Speech-Classification
+
+This study focuses on training a model for offensive tweet classification using two suitable methods: Support Vector Machines and Convolutional Neural Networks with keras library. Additionally, the study explores the use of glove pre-trained vectors as a separate method to understand the data behavior of existing tweets. The decision to use these methods is based on requirements and prior experience gained from the existing text classification machine learning algorithms. Before going ahead and implementing the model, the data is cleaned and performance metrics are defined. The selected methods behaved differently with the data when trained and tested.
